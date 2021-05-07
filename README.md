@@ -1,0 +1,2 @@
+# AutoClicker
+Toggle binded AutoClicker 
